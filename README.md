@@ -1,4 +1,4 @@
-## Cricket ball release detection using Image Net
+## Cricket ball release detection using ImageAI
 
 ### Detection used 
 
