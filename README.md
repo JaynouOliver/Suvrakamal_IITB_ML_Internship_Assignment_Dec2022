@@ -1,17 +1,5 @@
-## Cricket ball release detection 
+## Cricket ball release detection using Image Net
 
 ### Detection used 
-![alt video](ezgif.com-gif-maker.gif)     
 
-
-The results is showing the frame where bat hit the ball. I will make a project where the ball is released from the hand of the bbowler
-
-
-<!-- ![](results.jpg =600x338) -->
-<img src=results.jpg width="600px" height="338px">
-
-
-
-
-
-
+The results will showing the frame where ball leaves the hand of the person. 
