@@ -19,6 +19,7 @@ Keep the weights in te checkpoints folder and video in the data folder
 ## Results from the tensorflow model 
 
 Use the interference file to get the results from the models of tensorflow model.
+You can try several different configs available [here](https://github.com/tensorflow/models/tree/master/research/object_detection/configs/tf2)
 
 ## Image_AI results 
 
