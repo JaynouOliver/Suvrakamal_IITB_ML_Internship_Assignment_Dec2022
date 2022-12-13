@@ -1,6 +1,7 @@
-## Cricket ball release detection using ImageAI
+# Different approaches I have explored towards solving the problem
+## Cricket ball release detection using ImageAI (approach 1)
 
-### Detection used 
+### Given in the repository is the code that is the most probable solution to solve problem using Image AI
 
 The results will showing the frame where ball leaves the hand of the person. 
 
@@ -44,3 +45,13 @@ To get the final output I am calculating euclidian distence between person and b
 dst = math.sqrt((x1-x2)**2+(y1-y2)**2)
 
 ```
+
+## Detection of the Ball using PyImageSearch, OpenCV ball Detector (could not detect)
+
+I used this to detect the ball and this had real time capabilities but the problem was that it was not able to detect the ball when it was in the air. I learnt to use this from [here]("https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/")
+
+
+## Detection of the ball using Detectron2 model (could not detect)
+
+I also used the model of Facebook Research but running it on GPU and this one did not have real time capabilities and could not detect the ball in the first place.
+
